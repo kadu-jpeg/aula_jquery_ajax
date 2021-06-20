@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Euclid Circular A", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ddd;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px #ccc;
+}
+
+#topo, .tabela {
+    border: 1px solid #ccc;
+    max-width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+i {
+    margin-right: 5px;
+}
