@@ -1,3 +1,3 @@
-# aula_jquery_ajax
+# Introdução ao jQuery e AJAX
 
-Introdução ao JQuery e AJAX
+### Exercício onde foi criado um sistema para consulta de CEPs utilizando requisições AJAX, e jQuery para a interação.
